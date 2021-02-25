@@ -9,9 +9,10 @@ Analysis Obama and Trump tweets with SQL, MySQL, Python, Tableau
 - MySQL Workbench
 - Tableau Public
 
-![]() ![]()
+![](https://github.com/ofirGit/Tweets/blob/main/Dashboard%20Trump.png) ![](https://github.com/ofirGit/Tweets/blob/main/Dashboard%20Obama.png)
 
 **view Project Details on Tableau Public**
+
 [Link for Trump dashboard on Tableau Public](https://public.tableau.com/profile/ofir8678#!/vizhome/TrumpTweets_16141165158550/DashboardTrump)
 
 [Link for Obama dashboard on Tableau Public](https://public.tableau.com/profile/ofir8678#!/vizhome/ObamasTweets/DashboardObama)
